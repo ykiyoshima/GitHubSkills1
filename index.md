@@ -3,4 +3,4 @@
 ```
 $ git init
 ```
--[ ] wrong syntax list
+- [ ] wrong syntax list
